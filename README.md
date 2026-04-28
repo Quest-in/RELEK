@@ -4,6 +4,7 @@ RELEK is a mod being made by me (Questin), the goal of which is simple; to make 
 
 Planned Releases:
 v1.0.0 -> RELEK: RD270, RS84, RL10 E-1/C-X, XRS-2200 
+
           RELEK-V: Sea Dragon
           
 v1.1.0 -> TBD
