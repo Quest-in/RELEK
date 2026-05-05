@@ -6,8 +6,8 @@ Planned Releases:
 
 v1.0.0: 
 
-RELEK -> RD270, RS84, RL10 E-1/C-X, XRS-2200 
+RELEK -> RD270, RS84, RL10 E-1/C-X, XRS-2200, RD-0410/0411
 
-RELEK-V -> Sea Dragon
+RELEK-V -> Sea Dragon, UR-700
           
 v1.1.0 -> TBD
