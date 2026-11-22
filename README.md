@@ -13,3 +13,13 @@ RELEK -> RD270, RS84, Merlin-2, RD-0410/0411
 ~~RELEK-V -> Sea Dragon, UR-700~~ (For the Time being)
           
 v1.1.0 -> TBD
+
+## Dependancies
+- Module Manager
+- B9PartSwitch
+- Resurfaced
+- KSPCommunityPartModules
+- KSPCommunityFixes
+- CommunityResourcePack
+- Waterfall
+- Depthmask
