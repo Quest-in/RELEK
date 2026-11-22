@@ -1,0 +1,40 @@
+Localization
+{
+    something-somewhere
+    {
+    
+        //Manufacturer/Agency
+
+        #LOC_RK_manufacturer_title = RELEK
+        #LOC_RK_manufacturer_description = 
+        
+        //B9Ps
+
+        #LOC_RK_switcher_disabled = 
+        #LOC_RK_switcher_half_enabled =
+        #LOC_RK_switcher_enabled = 
+        #LOC_RK_switcher_blank = 
+        #LOC_RK_node_switch =
+        #LOC_RK_mount_switch =
+
+        //Parts 
+
+        #LOC_RELEK_270_26_title = 
+        #LOC_RELEK_270_26_description = 
+        #LOC_RELEK_270_26_tags = 
+
+        #LOC_RELEK_270_26_M_title = 
+        #LOC_RELEK_270_26_M_description = 
+        #LOC_RELEK_270_26_M_tags = 
+
+        #LOC_RELEK_4010_26_title = 
+        #LOC_RELEK_4010_26_description = 
+        #LOC_RELEK_4010_26_tags = 
+
+        #LOC_RELEK_4011_26_title = 
+        #LOC_RELEK_4011_26_description = 
+        #LOC_RELEK_4011_26_tags = 
+
+
+    }
+}
